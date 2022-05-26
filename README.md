@@ -17,3 +17,4 @@ After you run this, open your config file and configure your bot!
 After that run Einheitspakt Nuker.exe and it should work!
 
 If you have any problems dm C R A B#1592 on discord.
+![Screenshot_71](https://user-images.githubusercontent.com/80069156/170512770-da291003-fd37-48a3-bed0-6e5bae486cbc.png)
