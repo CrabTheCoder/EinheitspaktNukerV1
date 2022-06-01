@@ -1,5 +1,5 @@
 # EinheitspaktNukerV1
-V1 IS NOW OUT WITH FULL RELEASE!
+DISCONTINUED! Download my new nuker, Hydro.
 Features:
 Mass Unban, Mass ban, Full server nuke
 **NOTE**:
